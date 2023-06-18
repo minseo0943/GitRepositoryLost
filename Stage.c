@@ -17,6 +17,9 @@
 #include "ItemData.h"
 #include "PCNPC.h"
 #include "Skill.h"
+#include "Boss.h"
+
+
 
 void StartStage(int stageNum) {
     ClearGameBoard();

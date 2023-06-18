@@ -8,6 +8,7 @@
 #include <stdbool.h>
 //헤더 파일
 #include "DrawBoard.h"
+#include "DrawBoard.h"
 #include "Cursor.h"
 #include "Color.h"
 #include "Stage.h"
@@ -17,6 +18,8 @@
 #include "ItemData.h"
 #include "PCNPC.h"
 #include "Skill.h"
+#include "Boss.h"
+
 int ChainsawTouched[6] = { 0 };
 int NpcInfo[maxmob][2] = { 0 };
 int RangeNpcInfo[maxmob][2] = { 0 };

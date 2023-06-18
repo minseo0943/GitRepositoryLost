@@ -17,6 +17,8 @@
 #include "ItemData.h"
 #include "PCNPC.h"
 #include "Skill.h"
+#include "Boss.h"
+
 
 skill skillList[SKILL_TYPE][SKILL_LEVEL]; //스킬 목록
 int selectedSkill[SELECT_SIZE]; //보유한 스킬 번호(110, 120, 130, 210, ...)

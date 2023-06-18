@@ -17,6 +17,8 @@
 #include "ItemData.h"
 #include "PCNPC.h"
 #include "Skill.h"
+#include "Boss.h"
+
 Item itemList[2];
 
 void defineItem() {

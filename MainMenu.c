@@ -19,6 +19,7 @@
 #include "ItemData.h"
 #include "PCNPC.h"
 #include "Skill.h"
+#include "Boss.h"
 
 int scoreboard[SCOREBOARD__SIZE]; //스코어보드
 memory memoryList[MEMORY_SIZE]; //기억 목록
