@@ -9,6 +9,8 @@
 //헤더 파일
 #include "DrawBoard.h"
 #include "Cursor.h"
+#include "Color.h"
+#include "Stage.h"
 
 int GameBoardInfo[GBOARD_HEIGHT + 1][GBOARD_WIDTH + 1];
 int score = 0;
