@@ -11,6 +11,8 @@
 #include "Cursor.h"
 #include "Color.h"
 #include "Stage.h"
+#include "MainMenu.h"
+#include "ProcessKeyInput.h"
 
 void StartStage(int stageNum) {
     ClearGameBoard();
