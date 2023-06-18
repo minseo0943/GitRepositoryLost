@@ -13,6 +13,8 @@
 #include "Stage.h"
 #include "MainMenu.h"
 #include "ProcessKeyInput.h"
+#include "InitGameData.h"
+#include "ItemData.h"
 #include "PCNPC.h"
 #include "Skill.h"
 

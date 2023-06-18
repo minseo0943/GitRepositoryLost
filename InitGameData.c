@@ -15,6 +15,8 @@
 #include "ProcessKeyInput.h"
 #include "InitGameData.h"
 #include "ItemData.h"
+#include "PCNPC.h"
+#include "Skill.h"
 
 
 void initMemory() {

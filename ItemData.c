@@ -15,7 +15,8 @@
 #include "ProcessKeyInput.h"
 #include "InitGameData.h"
 #include "ItemData.h"
-
+#include "PCNPC.h"
+#include "Skill.h"
 Item itemList[2];
 
 void defineItem() {

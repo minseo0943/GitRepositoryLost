@@ -13,6 +13,10 @@
 #include "Stage.h"
 #include "MainMenu.h"
 #include "ProcessKeyInput.h"
+#include "InitGameData.h"
+#include "ItemData.h"
+#include "PCNPC.h"
+#include "Skill.h"
 
 int GameBoardInfo[GBOARD_HEIGHT + 1][GBOARD_WIDTH + 1];
 int score = 0;
