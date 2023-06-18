@@ -8,6 +8,7 @@
 #include <stdbool.h>
 //헤더 파일
 #include "DrawBoard.h"
+#include "Cursor.h"
 
 int GameBoardInfo[GBOARD_HEIGHT + 1][GBOARD_WIDTH + 1];
 int score = 0;
