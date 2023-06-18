@@ -25,7 +25,7 @@ void StartStage(int stageNum) {
     ClearGameBoard();
     if (stage == 3) {
         initBossPoint();
-        initBossHP(100);
+        initBossHP(90);
         BossStage();
     }
     //UI ¼³Á¤
