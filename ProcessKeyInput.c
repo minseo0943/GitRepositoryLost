@@ -17,6 +17,8 @@
 #include "ItemData.h"
 #include "PCNPC.h"
 #include "Skill.h"
+#include "Boss.h"
+
 
 int key = 0;
 Difficulty Diff;

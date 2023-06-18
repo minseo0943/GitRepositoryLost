@@ -13,6 +13,13 @@
 #include "Stage.h"
 #include "MainMenu.h"
 #include "ProcessKeyInput.h"
+#include "InitGameData.h"
+#include "ItemData.h"
+#include "PCNPC.h"
+#include "Skill.h"
+#include "Boss.h"
+
+
 
 //함수
 //void FindKeyboardValue(); //키보드 입력값 찾기
